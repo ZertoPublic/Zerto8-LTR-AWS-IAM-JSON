@@ -1,4 +1,4 @@
-# Zerto8-LTR-AWS-IAM-JSON-
+# Zerto8-LTR-AWS-IAM-JSON
 AWS IAM Policy JSON for Zerto 8.x
 
 JSON configuration for IAM Policy that needs to be created for Zerto LTR to AWS S3 Bucket
